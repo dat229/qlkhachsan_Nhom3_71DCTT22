@@ -75,7 +75,8 @@ while ($row = mysqli_fetch_array($data["bill"])) {
     <div class="container-fluid">
       <div class="row mb-2">
         <div class="col-sm-6">
-          <h1>Danh sách hóa đơn100000</h1>
+          <h1>hoa don</h1>
+          <a> test</a>
         </div>
         <div class="col-sm-6">
           <ol class="breadcrumb float-sm-right">
